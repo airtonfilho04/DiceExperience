@@ -1,0 +1,16 @@
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.exe
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.deps.json
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.runtimeconfig.json
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.runtimeconfig.dev.json
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.dll
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\ref\DiceExperience.dll
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\bin\Debug\net5.0\DiceExperience.pdb
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.csproj.AssemblyReference.cache
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.AssemblyInfoInputs.cache
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.AssemblyInfo.cs
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.csproj.CoreCompileInputs.cache
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.dll
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\ref\DiceExperience.dll
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.pdb
+C:\Users\airton_mesquita\source\repos\DiceExperience\DiceExperience\obj\Debug\net5.0\DiceExperience.genruntimeconfig.cache
