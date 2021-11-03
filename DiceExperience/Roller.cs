@@ -21,11 +21,16 @@ namespace DiceExperience
             return diceSide;
         }
 
+        // Increments a unit representing the recurrence in which a number was rolled.
         private void IncrementDiceRecurrence(int i)
         {
             _diceRecurrence[i]++;
         }
 
+        /*
+        * Defines an array representing the ranges in which numbers can be drawn. 
+        * Where the smaller ranges are related to the numbers that were most often drawn.
+        */
         private decimal[] StatisticDiceRecurrence()
         {
             var sumDiceRecurrence = _diceRecurrence.Sum();
@@ -50,6 +55,10 @@ namespace DiceExperience
             return diceStatistic;
         }
 
+        /*
+        * Draw a random number between 0 and 1 to define the number of 
+        * dice that will be drawn based on statistical ranges.        
+        */
         private int DiceRollerRandom() 
         {
             Random random = new Random();
